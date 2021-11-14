@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "PessoaDTO",
+  "namespace": "br.com.fullstackoverflow.kafkaschemaregistryexample.entity",
+  "fields" : [
+    {"name": "nome", "type": "string"},
+    {"name": "sobrenome", "type": "string"}
+  ]
+}
